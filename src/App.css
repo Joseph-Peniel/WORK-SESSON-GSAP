@@ -1,0 +1,16 @@
+@font-face {
+  font-family: FontOne;
+  src: url(./Assets/Font.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 400;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
